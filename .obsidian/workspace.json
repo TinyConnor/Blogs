@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e22a6e25e6db98c4",
+        "id": "53373fc580610e43",
         "type": "tabs",
         "children": [
           {
-            "id": "6d947962b8d1bd2e",
+            "id": "0934eb4027d2793a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1.Ubuntu22.04在virtualbox上安装并配置远程.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
@@ -116,27 +117,35 @@
               "title": "1.Ubuntu22.04在virtualbox上安装并配置远程 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "6d947962b8d1bd2e",
+  "active": "e083e4d8ef70da6a",
   "lastOpenFiles": [
+    "附件/虚拟机安装/ssh文件夹下内容.png",
+    "附件/虚拟机安装/完成远程连接.png",
+    "附件/虚拟机安装/远程config打开.png",
+    "附件/虚拟机安装/远程ssh插件.png",
+    "附件/虚拟机安装/端口转发.png",
+    "附件/虚拟机安装/启用热插拔.png",
     "1.Ubuntu22.04在virtualbox上安装并配置远程.md",
+    "附件/虚拟机安装/ip地址.png",
+    "附件/虚拟机安装/固态驱动热插拔.png",
+    "附件/虚拟机安装/启用输入输出缓存.png",
+    "附件/虚拟机安装/启用硬件加速.png",
+    "附件/虚拟机安装/显示共享文件夹.png",
+    "附件/虚拟机安装",
+    "附件",
     "README.md"
   ]
 }
